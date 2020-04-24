@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>🌵</title>
+  
+  <subtitle>Code the World</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-04-24T16:56:32.947Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>ZXZ</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何优雅的在Windows下使用Linux</title>
+    <link href="http://yoursite.com/2020/04/24/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E7%9A%84%E5%9C%A8Windows%E4%B8%8B%E4%BD%BF%E7%94%A8Linux/"/>
+    <id>http://yoursite.com/2020/04/24/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E7%9A%84%E5%9C%A8Windows%E4%B8%8B%E4%BD%BF%E7%94%A8Linux/</id>
+    <published>2020-04-24T13:38:26.000Z</published>
+    <updated>2020-04-24T16:56:32.947Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;  随着微软马上要在五月退出20H4版本，WSL2将能在新版本中正常使用，而不需要获得内测版本，手中的WSL不知道到时候还香不香。再加上最近操作系统课需要跑Linux，基本尝试了所有可能的在Windows下使用Linux的方法，做一个总结。&lt;/p&gt;
+&lt;h3 id=&quot;谁适合看本文&quot;&gt;&lt;a href=&quot;#谁适合看本文&quot; class=&quot;headerlink&quot; title=&quot;谁适合看本文&quot;&gt;&lt;/a&gt;谁适合看本文&lt;/h3&gt;&lt;p&gt;  首先看标题就知道，这是要在Windows下使用Linux，所以如果你想体验Linux的桌面那么这篇文章不适合你。不管怎么说，Linux的桌面还是不如Windows方便的，不管是游戏，各种办公（Office全家桶）等。所以如果你想体验桌面版本的Linux，可以自行选择装双系统（如果不怕麻烦的话），或者选择装带有桌面的虚拟机，前提是你可以忍受速度问题或者你的硬件足够好。&lt;/p&gt;
+&lt;p&gt;那么适合看这篇文章的是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;想学习Linux命令&lt;/li&gt;
+&lt;li&gt;想使用Linux环境编程，同时不想失去Windows的便捷&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="Windows" scheme="http://yoursite.com/categories/Windows/"/>
+    
+    
+      <category term="Windows" scheme="http://yoursite.com/tags/Windows/"/>
+    
+      <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
+    
+      <category term="OS" scheme="http://yoursite.com/tags/OS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一个开始</title>
+    <link href="http://yoursite.com/2020/04/09/%E4%B8%80%E4%B8%AA%E5%BC%80%E5%A7%8B/"/>
+    <id>http://yoursite.com/2020/04/09/%E4%B8%80%E4%B8%AA%E5%BC%80%E5%A7%8B/</id>
+    <published>2020-04-09T07:39:37.380Z</published>
+    <updated>2020-04-10T02:09:29.419Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;  2020大概是最长的一个寒假了，以前没有，大概以后也不会有。放假之前沾沾自喜，觉得学校难得放42天的寒假，觉得终于扬眉吐气一次，比别的学校长。到头来大家都一样长，还贼长。&lt;/p&gt;
+&lt;p&gt;  假期也没闲着，学习，更多的是看手机和打游戏……但总归还是学到一些东西的，大差不差的看了李沐老师的Dive into Deep Learning，算是刚刚摸清了门在哪，就开学了。自觉差的很远，收藏下
+    
+    </summary>
+    
+    
+      <category term="杂谈" scheme="http://yoursite.com/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+  </entry>
+  
+</feed>
